@@ -21,5 +21,5 @@ Hi there! 👋 I'm **Suraj Dudhe**, a passionate and driven software developer w
 ## 📫 **Let's Connect!**
 - 💼 [LinkedIn](https://www.linkedin.com/in/suraj-dudhe-70b16b209/)
 - 🐦 [Twitter](https://twitter.com/suraj_dudhe)
-- 📧 Email: suraj345@gmail.com
+- 📧 Email: surajdudhe345@gmail.com
 - 🔗 [LeetCode](https://leetcode.com/u/surajdudhe7/)
